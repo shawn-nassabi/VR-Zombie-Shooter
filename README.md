@@ -1,3 +1,3 @@
 # VR-Zombie-Shooter
 Virtual Reality zombie shooter game created using Unity. Tested using Meta Quest 2. Link to video walkthrough --> https://drive.google.com/file/d/19vNyNsCQ4MUjgSKX8jV1_rFVGVLhqrW5/view?usp=sharin 
-The repository contains the C# scripts used in the project, as well as a documentation.
+The repository contains the C# scripts created for the project, as well as a documentation.
